@@ -55,7 +55,6 @@ class Universitas:
     # Membuat fungsi untuk menampilkan daftar jurusan pada jurusan di kelas Universitas saat ini
     def tampilkan_daftar_jurusan(self):
         #Agar mudah, di sini saya menggunakan string interpolation dengan f-string untuk menampilkan data dalam string
-        print(f'Daftar Mahasiswa di Jurusan {self.NamaJurusan}: ')
         print(f'Daftar Jurusan di Universitas {self.NamaUniversitas}: ')
         for jurusan in self.DaftarJurusan:
             print(jurusan.NamaJurusan)
