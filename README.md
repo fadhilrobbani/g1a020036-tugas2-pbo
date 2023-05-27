@@ -1,0 +1,5 @@
+# TUGAS 2 MATA KULIAH PEMROGRAMAN BERBASIS OBJEK
+
+- Nama: Fadhilla Ilham Robbani
+- NPM : G1A020036
+- Kelas : B
